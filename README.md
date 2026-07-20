@@ -318,16 +318,3 @@ python -m producer.transaction_producer
 ```
 
 ---
-
-# Screenshots
-
-(Add dashboard screenshots here)
-
----
-
-# Author
-
-**Sakshi More**
-
-B.Tech Computer Engineering  
-D.J. Sanghvi College of Engineering
