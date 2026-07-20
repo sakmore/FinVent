@@ -1,5 +1,5 @@
 # FinVent
-### Real-Time Event-Driven Fraud Detection & Financial Analytics Platform
+### Real-Time Event-Driven Fraud Detection Platform
 
 ---
 
